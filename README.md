@@ -124,9 +124,9 @@
 <p align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=gulsahkadioglu&show_icons=true&theme=default&count_private=true" alt="GitHub Stats"/></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=gulsahkadioglu&theme=default&hide_border=true" alt="GitHub Stats"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsahkadioglu&layout=compact&theme=default" alt="Top Languages"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=GulsahKadioglu&show_icons=true&theme=default&count_private=true" alt="GitHub Stats"/></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=GulsahKadioglu&theme=default&hide_border=true" alt="GitHub Stats"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulsahKadioglu&layout=compact&theme=default" alt="Top Languages"/></td>
     </tr>
   </table>
 </p>
@@ -136,7 +136,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gulsahkadioglu&theme=darkhub&no-bg=false&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GulsahKadioglu&theme=darkhub&no-bg=false&margin-w=5" />
 </p>
 
 ##
