@@ -12,38 +12,31 @@
 
 ## 💼 Experience Highlights
 
-- 🎓 **Artificial Intelligence & Technology Academy, Advanced training by Google, Presidency of Turkey & others**  
-  *AI · ML · Data Analytics · Data Science · Unity · Entrepreneurship*  
+- 🎓 **Artificial Intelligence & Technology Academy, Advanced training by Google, Presidency of Turkey & others**  *AI · ML · Data Analytics · Data Science · Unity · Entrepreneurship*  
 
-- 🛠️ **Turkcell UniBounty**  
-  *Software Testing & Automation*
+- 🛠️ **Turkcell UniBounty**  *Software Testing & Automation*
 
-- 🤖 **Women in AI (Turkcell & TOBB & TRAI)**
-  *ML, DL, AI Apps, Ethics, NLP, CV*   
+- 🤖 **Women in AI (Turkcell & TOBB & TRAI)**  *ML, DL, AI Apps, Ethics, NLP, CV*   
   
-- 🔍 **ML & CV Lab – Research Engineer Intern**  
-  *3D Vision, image processing, robotics*
+- 🔍 **ML & CV Lab – Research Engineer Intern**  *3D Vision, image processing, robotics*
 
-- 🌎 **UNDP SDG AI Lab & Samsung Innovation Campus**  
-  *AI, ML*
+- 🌎 **UNDP SDG AI Lab & Samsung Innovation Campus**  *AI, ML*
 
-- ☁️ **Google Cloud Boostcamp**  
-  *BigQuery, Vertex AI, Dataflow, ML Pipelines*
+- ☁️ **Google Cloud Boostcamp**  *BigQuery, Vertex AI, Dataflow, ML Pipelines*
 
-- ☁️ **VMware & Vsmart Training**  
-  *Virtualization · Cloud Technologies · vSphere*
+- ☁️ **VMware & Vsmart Training**  *Virtualization · Cloud Technologies · vSphere*
 
 ---
 
 ## 🚀 Projects & Achievements
 
-- 🥈 **Edu AI** — Hackathon 2nd place (AI & Tech Academy)  
-- ⚡ **Electricity Theft Detection** — ML-based anomaly detection  
-- 🌍 **GreenMap** — Carbon Footprint Calculator (Sustainability App)  
-- 📱 **WasTech** — E-Waste Recycling App  
-- 😊 **Face Emotion Recognition** — CV Project with OpenCV & Keras  
-- 🌾 **Smart Agriculture** — IoT + MySQL + Real-time dashboard  
-- 🎮 **Games** — *Avengers vs. COVID-19* (Python/Pygame), *The Current War* (C#/OOP Game)  
+- 🥈 **Edu AI**  —  Hackathon 2nd place (AI & Tech Academy)  
+- ⚡ **Electricity Theft Detection**  —  ML-based anomaly detection  
+- 🌍 **GreenMap**  —  Carbon Footprint Calculator (Sustainability App)  
+- 📱 **WasTech**  —  E-Waste Recycling App  
+- 😊 **Face Emotion Recognition**  —  CV Project with OpenCV & Keras  
+- 🌾 **Smart Agriculture**  —  IoT + MySQL + Real-time dashboard  
+- 🎮 **Games**  —  *Avengers vs. COVID-19* (Python/Pygame), *The Current War* (C#/OOP Game)  
 
 ---
 
