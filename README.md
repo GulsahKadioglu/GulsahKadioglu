@@ -3,7 +3,7 @@
 <p align="center">
 🌍 Passionate about AI, data science & sustainable tech <br>
 📚 MSc Data Science @ Gazi University | BSc EEE @ Osmangazi University <br>
-💻 Empowering ideas through technology and innovation <br>
+✨ Empowering ideas through technology and innovation <br>
 📫 <a href="mailto:gulsah-kadioglu@com">gulsah-kadioglu@com</a> | 
 🔗 <a href="https://www.linkedin.com/in/gulsahkadioglu/">LinkedIn</a>
 </p>
