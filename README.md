@@ -18,7 +18,8 @@
 - 🛠️ **Turkcell UniBounty**  
   *Software Testing & Automation*
 
-- 🤖 **Women in AI (Turkcell & TOBB & TRAI)**   
+- 🤖 **Women in AI (Turkcell & TOBB & TRAI)**
+  *ML, DL, AI Apps, Ethics, NLP, CV*   
   
 - 🔍 **ML & CV Lab – Research Engineer Intern**  
   *3D Vision, image processing, robotics*
