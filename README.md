@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Gülsah Kadıoğlu 👋</h1>
+<h1 align="center">Hi there, I'm Gülsah 👋</h1>
 
 <p align="center">
 🌍 Passionate about AI, data science & sustainable tech <br>
@@ -12,14 +12,13 @@
 
 ## 💼 Experience Highlights
 
-- 🎓 **Artificial Intelligence & Technology Academy**  
-  *Advanced training by Google, Presidency of Turkey & others*  
-  🧠 AI · ML · Data Analytics · Unity · Entrepreneurship  
+- 🎓 **Artificial Intelligence & Technology Academy, Advanced training by Google, Presidency of Turkey & others**  
+  *AI · ML · Data Analytics · Data Science · Unity · Entrepreneurship*  
 
 - 🛠️ **Turkcell UniBounty**  
   *Software Testing & Automation*
 
-- 🧪 **Women in AI (Turkcell & TOBB & TRAI)**   
+- 🤖 **Women in AI (Turkcell & TOBB & TRAI)**   
   
 - 🔍 **ML & CV Lab – Research Engineer Intern**  
   *3D Vision, image processing, robotics*
@@ -59,7 +58,7 @@
 
 ## 🧠 Tech Stack
 
-### 🗣️ Languages  
+### 💻 Languages  
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" />
