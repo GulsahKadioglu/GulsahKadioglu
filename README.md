@@ -35,16 +35,6 @@
 
 ---
 
-## 🎓 Education
-
-✏️ **MSc Data Science**  
-*Gazi University – 2025–2027*
-
-🎓 **BSc Electrical & Electronics Engineering**  
-*Eskisehir Osmangazi University – 2025*  
-
----
-
 ## 🚀 Projects & Achievements
 
 - 🥈 **Edu AI** — Hackathon 2nd place (AI & Tech Academy)  
