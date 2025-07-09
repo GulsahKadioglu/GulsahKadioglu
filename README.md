@@ -37,7 +37,7 @@
 - 😊 **Face Emotion Recognition**  —  CV Project with OpenCV & Keras  
 - 🌾 **Smart Agriculture**  —  IoT + MySQL + Real-time dashboard  
 - 🎮 **Games**  —  *Avengers vs. COVID-19* (Python/Pygame), *The Current War* (C#/OOP Game)
-- 
+
 ##
 
 ## 🧠 Tech Stack
