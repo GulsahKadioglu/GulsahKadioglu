@@ -26,7 +26,7 @@
 
 - ☁️ **VMware & Vsmart Training**  *Virtualization · Cloud Technologies · vSphere*
 
----
+##
 
 ## 🚀 Projects & Achievements
 
@@ -36,9 +36,9 @@
 - 📱 **WasTech**  —  E-Waste Recycling App  
 - 😊 **Face Emotion Recognition**  —  CV Project with OpenCV & Keras  
 - 🌾 **Smart Agriculture**  —  IoT + MySQL + Real-time dashboard  
-- 🎮 **Games**  —  *Avengers vs. COVID-19* (Python/Pygame), *The Current War* (C#/OOP Game)  
-
----
+- 🎮 **Games**  —  *Avengers vs. COVID-19* (Python/Pygame), *The Current War* (C#/OOP Game)
+- 
+##
 
 ## 🧠 Tech Stack
 
@@ -51,8 +51,6 @@
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
 
-##
-
 ### 📚 Libraries & Frameworks  
 <p align="left">
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
@@ -64,8 +62,6 @@
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
 </p>
 
-##
-
 ### 📊 Data Science & Visualization  
 <p align="left">
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
@@ -73,8 +69,6 @@
   <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
-
-##
 
 ### ☁️ Cloud & DevOps  
 <p align="left">
@@ -87,8 +81,6 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
-##
-
 ### 🛠️ Tools & Platforms  
 <p align="left">
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
@@ -100,21 +92,15 @@
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 </p>
 
-##
-
 ### 🤖 AI & ML Domains  
 <p align="left">
   🧠 Machine Learning • Deep Learning • NLP • Computer Vision • Generative AI (RAG, Transformers, Gemini) • BERT • Edge AI • Vertex AI • SDG‑Focused AI • MLOps
 </p>
 
-##
-
 ### 💡 IoT & Quantum  
 <p align="left">
   📶 IoT (Internet of Things) • ⚛️ Quantum Computing
 </p>
-
-##
 
 ### 🎯 Project & Team Skills  
 <p align="left">
@@ -122,7 +108,7 @@
   🧭 Mentorship • 📣 Public Speaking • ⚖️ Ethical AI • ⏱️ Time Management
 </p>
 
----
+##
 
 ## 🌱 Volunteering
 
@@ -131,7 +117,7 @@
 - 💡 **Mentor @ Samsung Solve for Tomorrow** – a theme-based competition
 - 🥌 **Curling Player** – Strategy, teamwork
 
----
+##
 
 ## 📈 GitHub Stats
 
@@ -145,7 +131,7 @@
   </table>
 </p>
 
----
+##
 
 ## 🏆 GitHub Trophies
 
@@ -153,10 +139,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gulsahkadioglu&theme=darkhub&no-bg=false&margin-w=5" />
 </p>
 
----
-
-## 📊 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gulsahkadioglu&theme=light)
-
----
+##
